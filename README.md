@@ -12,7 +12,7 @@ Estou aprendendo sobre programação em Java e desenvolvimento web(HTML, CSS Jav
 * 🖥️  See my portfolio at [Meus projetos](http://https://github.com/AAndreLuis-dev/Projects)
 * ✉️  You can contact me at [aandreluis.a.a@gmail.com](mailto:aandreluis.a.a@gmail.com)
 * 🚀  I'm currently working on [Meu perfil no LinkedIn](http://https://www.linkedin.com/in/andreluis-dev/)
-* 🧠  I'm learning Java, HTML, Css, JavaScript
+* 🧠  I'm learning Java, JavaScript, Nestjs graphql
 * 🤝  I'm open to collaborating on Projetos freelancers
 * ⚡  Eu sou o batman! 🦇
 
