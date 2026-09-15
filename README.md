@@ -1,48 +1,64 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is André Luis
-==================================================================================================================================
+<h1 align="center">Olá, eu sou o André Luis 👋</h1>
 
-Junior programmer | Java & Web
-------------------------------
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
-Estou aprendendo sobre programação em Java e desenvolvimento web(HTML, CSS JavaScript, Bootstrap), PHP, MySQL. Estou procurando atualmente emprego na área e projetos freelancers para participar.
-
- I'm learning about Java programming and web development (HTML, CSS, JavaScript, Bootstrap), PHP, and MySQL. Currently looking for a job in the field and freelance projects to get involved in.
-
-* 🌍  I'm based in Salvador - BA
-* 🖥️  See my portfolio at [Meus projetos](https://https://github.com/AAndreLuis-dev/Projects)
-* ✉️  You can contact me at [aandreluis.a.a@gmail.com](mailto:aandreluis.a.a@gmail.com)
-* 🚀  I'm currently working on [Meu perfil no LinkedIn](https://https://www.linkedin.com/in/andreluis-dev/)
-* 🧠  I'm learning Java, JavaScript, Nestjs graphql
-* 🤝  I'm open to collaborating on Projetos freelancers
-* ⚡  Eu sou o batman! 🦇
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=e9e8e6&center=true&vCenter=true&width=560&lines=APIs+REST+%7C+Web+%7C+Cloud;TypeScript+%7C+React+%7C+Vue+%7C+Laravel;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/andreluis-dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" /></a>
+  <a href="mailto:aandreluis.a.a@gmail.com"><img src="https://img.shields.io/badge/-Email-1C1917?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/AAndreLuis-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/AndreLuis-dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### 🧭 Sobre mim
 
-### Badges
+Desenvolvedor Full-Stack com experiência prática em APIs REST, aplicações web escaláveis e integração com serviços cloud. Atuo com TypeScript, React, Vue.js e Laravel em projetos reais — arquitetura de sistemas, bancos de dados e ambientes containerizados com Docker.
 
-<b>My GitHub Stats</b>
+- 💼 Estagiário em Desenvolvimento de Software na **Horizon** (Out/2025 – atual)
+- 🎓 Passagem pela **Compass UOL** — formação intensiva em APIs REST com Node.js, Express e MongoDB
+- 🚀 Atuação em produtos reais: **Meu Alvará** (plataforma GovTech SaaS) e **Sistema ACE** (plataforma territorial full-stack)
+- 🔭 Projeto pessoal: **Librum**, catálogo digital de livros, filmes e séries
+- 📊 Também com experiência em análise de dados — Analista Planning Analytics Jr na **Netpartners**
+- 🌍 Baseado em Salvador, Bahia, Brasil
 
-<div><a href="http://www.github.com/AAndreLuis-dev"><img src="https://github-readme-stats.vercel.app/api?username=AAndreLuis-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AAndreLuis-dev's GitHub stats" width="49%"/></a>
-<a href="http://www.github.com/AAndreLuis-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AAndreLuis-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="50%"/></a></div>
+---
 
+### 🛠️ Stack
 
-<a href="https://github.com/AAndreLuis-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAndreLuis-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Linguagens & Front-end**
 
-<b>Top Repositories</b>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,react,vue,nextjs,html,css&theme=dark" />
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/AAndreLuis-dev/Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AAndreLuis-dev&repo=Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br />
+**Back-end, Dados & Infra**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,express,postgres,mysql,sqlite,mongodb,aws,docker,linux,git,github&theme=dark" />
+</p>
+
+---
+
+### 📌 Projetos em destaque
+
+**Meu Alvará** — plataforma GovTech, evoluída para modelo SaaS multi-tenant com atendimento isolado a múltiplas prefeituras. Desenvolvi um motor de geração dinâmica de documentos (Markdown + placeholders) para emissão automatizada de laudos e alvarás, com IA aplicada à criação de roteiros de inspeção sanitária.
+
+**Sistema ACE** — plataforma territorial full-stack (Laravel + ecossistema Node.js, infraestrutura em Docker). Responsável por diagnosticar e resolver bugs complexos de lógica de negócio, garantindo a validação correta entre UUIDs de usuários e dados de mapeamento de quarteirões.
+
+**[Librum](https://github.com/AAndreLuis-dev)** — catálogo pessoal de livros, filmes e séries, com listas personalizadas e acompanhamento de progresso de consumo. Backend em Laravel/PostgreSQL, API desacoplada do frontend em React.
+
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=AAndreLuis-dev&show_icons=true&hide_title=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AAndreLuis-dev&layout=compact&hide_title=true&theme=dark&hide_border=true" height="165"/>
+</p>
+
+---
+
+<p align="center"><i>Aberto a projetos freelancer e oportunidades como desenvolvedor full-stack.</i></p>
