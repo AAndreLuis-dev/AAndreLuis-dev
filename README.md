@@ -148,14 +148,6 @@ Exercícios de algoritmos no HackerRank e LeetCode, experimentos com arquitetura
 
 <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AAndreLuis-dev&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" />
 
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=AAndreLuis-dev&bg_color=0D1117&color=A855F7&line=C084FC&point=FFFFFF&area_color=4C1D95&title_color=A855F7&area=true&hide_border=true" />
-
-<br/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=AAndreLuis-dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/line-neon.gif" width="100%" />
