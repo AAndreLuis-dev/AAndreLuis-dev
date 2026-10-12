@@ -182,7 +182,7 @@ Aberto a oportunidades como **desenvolvedor full stack** e a projetos interessan
 
 <br/><br/>
 
-<i>"Entender o porquê vale mais do que decorar o como."</i>
+<i>"Entender o porquê vale mais do que decorar o como!"</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,55:4C1D95,100:0D1117&height=120&section=footer" width="100%" />
 
