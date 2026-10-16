@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=0D1117" />
 </a>
 <img src="https://img.shields.io/badge/Salvador,%20BA-0D1117?style=for-the-badge&logo=googlemaps&logoColor=A855F7&labelColor=0D1117" />
-<img src="https://komarev.com/ghpvc/?username=AAndreLuis-dev&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -81,6 +80,22 @@ public class AndreLuis {
 <tr>
 <td width="50%" valign="top">
 
+### 🎭 Mocado
+<sub>**Projeto próprio · open source**</sub>
+
+Extensão de navegador que detecta campos de formulário (CPF, CNPJ etc.), gera dados de teste automaticamente e guarda o histórico de qual perfil usou qual dado. Nasceu de uma dor real: cadastrar vários CPFs na mão.
+
+`WXT` `React` `Monorepo` `MIT`
+
+<sub>🟢 Publicada na Chrome Web Store · Firefox em breve</sub>
+
+<a href="https://github.com/AAndreLuis-dev/Mocado">
+  <img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-0D1117?style=flat-square&logo=github&logoColor=A855F7&labelColor=0D1117" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 📚 Librum
 <sub>**Projeto próprio · em desenvolvimento**</sub>
 
@@ -89,18 +104,6 @@ Biblioteca digital para catalogar livros, mangás, filmes e séries. Listas pers
 `Laravel` `PostgreSQL` `React` `API desacoplada`
 
 <sub>🔒 Repositório privado</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ Meu Alvará
-<sub>**GovTech · Horizon**</sub>
-
-Plataforma de emissão de alvarás evoluída para SaaS multi-tenant, atendendo múltiplas prefeituras de forma isolada. Construí o motor de geração dinâmica de documentos (Markdown + placeholders) e integrei IA para roteiros de inspeção sanitária.
-
-`React` `TypeScript` `Multi-tenant` `IA`
-
-<sub>🔒 Código proprietário</sub>
 
 </td>
 </tr>
@@ -119,16 +122,14 @@ Sistema full-stack de mapeamento territorial. Atuei no diagnóstico e correção
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Laboratório
-<sub>**Estudos & prática**</sub>
+### 🏛️ Meu Alvará
+<sub>**GovTech · Horizon**</sub>
 
-Exercícios de algoritmos no HackerRank e LeetCode, experimentos com arquitetura limpa em React (organização de hooks, fluxo unidirecional) e provas de conceito com Spring e AWS.
+Plataforma de emissão de alvarás evoluída para SaaS multi-tenant, atendendo múltiplas prefeituras de forma isolada. Construí o motor de geração dinâmica de documentos (Markdown + placeholders) e integrei IA para roteiros de inspeção sanitária.
 
-`Java` `Spring` `TypeScript` `AWS`
+`React` `TypeScript` `Multi-tenant` `IA`
 
-<a href="https://github.com/AAndreLuis-dev?tab=repositories">
-  <img src="https://img.shields.io/badge/Todos%20os%20repos-0D1117?style=flat-square&logo=github&logoColor=A855F7&labelColor=0D1117" />
-</a>
+<sub>🔒 Código proprietário</sub>
 
 </td>
 </tr>
